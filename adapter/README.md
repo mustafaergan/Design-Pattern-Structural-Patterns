@@ -8,4 +8,4 @@ Java Kullanıdılığı Yerler:
 * java.util.Collections#enumeration()
 * java.io.InputStreamReader(InputStream) (returns a Reader)
 * java.io.OutputStreamWriter(OutputStream) (returns a Writer)
-* javax.xml.bind.annotation.adapters.XmlAdapter#marshal() and #unmarshal()
+* javax.xml.bind.annotation.adapters.XmlAdapter#marshal() ve #unmarshal()
